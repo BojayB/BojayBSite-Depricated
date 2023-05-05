@@ -1,4 +1,4 @@
-# BojayBSite-DEPRICATED     GO TO [Bojay.be](https://github.com/BojayB/Bojay.be)
+# BojayBSite-DEPRICATED.     GO TO [Bojay.be](https://github.com/BojayB/Bojay.be)
 Just the website that I've made. Take whatever you want from it.
 
 The css can be found at https://github.com/oxalorg/sakura/blob/master/css/sakura-vader.css. 
